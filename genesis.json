@@ -60,6 +60,56 @@
             "sequence": "0"
           },
           "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "black192v40flpmw5448zcwczy3mxr7y2m2z7gmqddvg",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "black1hmf83m7cr3d4fdcdrz6k7mn2j5em9xptusgmc2",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "black1vk5qe7zdfktw5en0ffh8eqv8e8t65dz6teenvf",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "black1jyccd4k2h2xnerxafl5jnz88q6stvk69qlvdum",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "black137yg4htyecqzr65n0s6gfwyd8df0rw9stjlv7c",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
         }
       ]
     },
@@ -100,7 +150,43 @@
           ]
         },
         {
-          "address": "black1hj3rzq9fqldkwkftr4mf78v8xq4g7mn2myvjeh",
+          "address": "black192v40flpmw5448zcwczy3mxr7y2m2z7gmqddvg",
+          "coins": [
+            {
+              "denom": "ablack",
+              "amount": "100000000000000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "black1hmf83m7cr3d4fdcdrz6k7mn2j5em9xptusgmc2",
+          "coins": [
+            {
+              "denom": "ablack",
+              "amount": "100000000000000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "black1vk5qe7zdfktw5en0ffh8eqv8e8t65dz6teenvf",
+          "coins": [
+            {
+              "denom": "ablack",
+              "amount": "100000000000000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "black1jyccd4k2h2xnerxafl5jnz88q6stvk69qlvdum",
+          "coins": [
+            {
+              "denom": "ablack",
+              "amount": "100000000000000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "black137yg4htyecqzr65n0s6gfwyd8df0rw9stjlv7c",
           "coins": [
             {
               "denom": "ablack",
@@ -109,12 +195,7 @@
           ]
         }
       ],
-      "supply": [
-        {
-          "denom": "ablack",
-          "amount": "300000000000000000000010000"
-        }
-      ],
+      "supply": [],
       "denom_metadata": []
     },
     "capability": {
@@ -152,7 +233,7 @@
     "crisis": {
       "constant_fee": {
         "denom": "ablack",
-        "amount": "1000"
+        "amount": "100000"
       }
     },
     "distribution": {
