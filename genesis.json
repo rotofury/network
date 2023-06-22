@@ -181,7 +181,7 @@
       },
       "claims_records": [
         {
-          "initial_claimable_amount": "10000",
+          "initial_claimable_amount": "0",
           "actions_completed": [
             false,
             false,
