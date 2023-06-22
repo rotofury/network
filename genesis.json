@@ -34,7 +34,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1hj3rzq9fqldkwkftr4mf78v8xq4g7mn2myvjeh",
+            "address": "black1araf9dz2233ahwmtzv86vwcl460gkkte99fcqj",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -44,7 +44,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1kmfmlearkums39l9zlm0txt9fjlejdjhx0sve6",
+            "address": "black10f0tfhn4003qfvdtqqpcf63udz7yhe58r9800f",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -54,7 +54,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1dmxeh68e4ve8ujxztmntahxefuk6p8lzv64hem",
+            "address": "black1fu075kzrnhe49tg6pjecahdgafzlurh9xfhhrv",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -64,7 +64,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black192v40flpmw5448zcwczy3mxr7y2m2z7gmqddvg",
+            "address": "black1hvh76na8g8qqu93t4hnzvsyr2zfvu3y9dtd86s",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -74,7 +74,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1hmf83m7cr3d4fdcdrz6k7mn2j5em9xptusgmc2",
+            "address": "black1pn8yds234tm49pcfhk9yr6hww63nl60k9rvg2h",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -84,27 +84,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1vk5qe7zdfktw5en0ffh8eqv8e8t65dz6teenvf",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "black1jyccd4k2h2xnerxafl5jnz88q6stvk69qlvdum",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "black137yg4htyecqzr65n0s6gfwyd8df0rw9stjlv7c",
+            "address": "black1ahtfdxmkp7haym4y0njlr9um0cckhxne9qjv7f",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -123,7 +103,16 @@
       },
       "balances": [
         {
-          "address": "black1dmxeh68e4ve8ujxztmntahxefuk6p8lzv64hem",
+          "address": "black1araf9dz2233ahwmtzv86vwcl460gkkte99fcqj",
+          "coins": [
+            {
+              "denom": "ablack",
+              "amount": "100000000000000000000000000"
+            }
+          ]
+        }
+        {
+          "address": "black10f0tfhn4003qfvdtqqpcf63udz7yhe58r9800f",
           "coins": [
             {
               "denom": "ablack",
@@ -132,16 +121,7 @@
           ]
         },
         {
-          "address": "black15cvq3ljql6utxseh0zau9m8ve2j8erz8zpp4fr",
-          "coins": [
-            {
-              "denom": "ablack",
-              "amount": "10000"
-            }
-          ]
-        },
-        {
-          "address": "black1kmfmlearkums39l9zlm0txt9fjlejdjhx0sve6",
+          "address": "black1fu075kzrnhe49tg6pjecahdgafzlurh9xfhhrv",
           "coins": [
             {
               "denom": "ablack",
@@ -150,7 +130,7 @@
           ]
         },
         {
-          "address": "black192v40flpmw5448zcwczy3mxr7y2m2z7gmqddvg",
+          "address": "black1hvh76na8g8qqu93t4hnzvsyr2zfvu3y9dtd86s",
           "coins": [
             {
               "denom": "ablack",
@@ -159,7 +139,7 @@
           ]
         },
         {
-          "address": "black1hmf83m7cr3d4fdcdrz6k7mn2j5em9xptusgmc2",
+          "address": "black1pn8yds234tm49pcfhk9yr6hww63nl60k9rvg2h",
           "coins": [
             {
               "denom": "ablack",
@@ -168,34 +148,7 @@
           ]
         },
         {
-          "address": "black1vk5qe7zdfktw5en0ffh8eqv8e8t65dz6teenvf",
-          "coins": [
-            {
-              "denom": "ablack",
-              "amount": "100000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "black1jyccd4k2h2xnerxafl5jnz88q6stvk69qlvdum",
-          "coins": [
-            {
-              "denom": "ablack",
-              "amount": "100000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "black137yg4htyecqzr65n0s6gfwyd8df0rw9stjlv7c",
-          "coins": [
-            {
-              "denom": "ablack",
-              "amount": "100000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "black1hj3rzq9fqldkwkftr4mf78v8xq4g7mn2myvjeh",
+          "address": "black1ahtfdxmkp7haym4y0njlr9um0cckhxne9qjv7f",
           "coins": [
             {
               "denom": "ablack",
@@ -235,7 +188,7 @@
             false,
             false
           ],
-          "address": "black1hj3rzq9fqldkwkftr4mf78v8xq4g7mn2myvjeh"
+          "address": "black10f0tfhn4003qfvdtqqpcf63udz7yhe58r9800f"
         }
       ]
     },
